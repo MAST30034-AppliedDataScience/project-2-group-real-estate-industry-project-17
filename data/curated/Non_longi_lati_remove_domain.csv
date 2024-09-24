@@ -1991,6 +1991,7 @@ id,promoType,price,hasVideo,agentNames,brandName,addressStreet,addressSuburb,add
 17193445,standard,440.0,False,Sandy Ho,Bow Residential,7/6 Empire St,FOOTSCRAY,VIC,3011,-37.790363,144.89139,1.0,ApartmentUnitFlat,Apartment / Unit / Flat,False,0.0,False
 17194995,standard,720.0,False,Sandy Ho,Bow Residential,308/1 moreland st,FOOTSCRAY,VIC,3011,-37.80162,144.9082,2.0,ApartmentUnitFlat,Apartment / Unit / Flat,False,0.0,False
 17195846,standard,500.0,False,Stephanie Chin,Gemrock Real Estate,2409/8 Hallenstein Street,FOOTSCRAY,VIC,3011,-37.80004,144.9082,1.0,ApartmentUnitFlat,Apartment / Unit / Flat,False,0.0,False
+17195847,standard,475.0,False,"Stephanie Chin, Lilian Yoon",Gemrock Real Estate,1510/5 Joseph Road,FOOTSCRAY,VIC,3011,,,1.0,ApartmentUnitFlat,Apartment / Unit / Flat,False,0.0,False
 17197384,standard,400.0,False,Andrea Vizcaya,Nicholas Scott Real Estate,5/30 Pickett Street,FOOTSCRAY,VIC,3011,-37.801403,144.89587,1.0,ApartmentUnitFlat,Apartment / Unit / Flat,False,0.0,False
 17198618,standard,580.0,False,Mithra Ghazipour,KEYSTONE REAL ESTATE,306/27-29 Victoria Street,FOOTSCRAY,VIC,3011,-37.801,144.893,2.0,ApartmentUnitFlat,Apartment / Unit / Flat,False,0.0,False
 17200085,standard,520.0,False,Verrel Bramasta,Xynergy Realty Altona,301/234-240 Barkly Street,FOOTSCRAY,VIC,3011,-37.79925,144.89651,1.0,House,House,False,0.0,False
