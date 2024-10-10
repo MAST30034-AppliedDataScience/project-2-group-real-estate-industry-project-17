@@ -4,11 +4,12 @@
 This project aims to predict property rents for the next three years and identify key features influencing these rents. Our analysis will provide insights and recommendations based on the forecasted data.
 
 ## Group Members:
-- Xiaowei Guo (1346452)
-- Zixuan Zhang (1132592)
-- Hanyang Shi (1346903)
-- Hao Tian (1342982)
 - Luochan Bao (1131378)
+- Xiaowei Guo (1346452)
+- Hao Tian (1342982)
+- Hanyang Shi (1346903)
+- Zixuan Zhang (1132592)
+
 
 ## Research Objective:
 The main objective is to predict property rents and analyze the key factors that influence them. The recommendations will be made based on these predictions and insights.
