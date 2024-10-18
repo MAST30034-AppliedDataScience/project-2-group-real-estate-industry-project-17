@@ -7,11 +7,7 @@ Data can be downloaded via URL or uploaded directly to the `raw` directory.
 
 -**Timeline:** The timeline for the research area is 2023.
 
--**API Access:**
-
-Declaration : The API keys are securely stored in environment variables and have been excluded from version control by including them in the .gitignore file.
- 
-Guidance about how to get API access is provided in "distance_train_station.ipynb" in "notebook" folder.
+-**API Access:** (1).Declaration : The API keys are securely stored in environment variables and have been excluded from version control by including them in the .gitignore file. (2). Guidance about how to get API access is provided in "distance_train_station.ipynb" in "notebook" folder.
 
 
 Step 1 : To run the pipeline, please visit the "notebook" folder and run the files in order:
