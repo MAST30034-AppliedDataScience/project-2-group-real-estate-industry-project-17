@@ -10,7 +10,7 @@ Data can be downloaded via URL or uploaded directly to the `raw` directory.
 -**API Access:** (1).Declaration : The API keys are securely stored in environment variables and have been excluded from version control by including them in the .gitignore file. (2). Guidance about how to get API access is provided in "distance_train_station.ipynb" in "notebook" folder.
 
 
-Step 1 : To run the pipeline, please visit the "notebook" folder and run the files in order:
+Step 1 : To find the relevant analysis (EDA) and get the dataset for prediction model, please visit the "notebook" folder and run the files in order:
 1. **population_EDA.ipynb**：Perform exploratory data analysis of demographic data.
 2. **EDA_aff.ipynb**: Exploratory data analysis of economic prosperity data.
 3. **avg_rent.ipynb**：Analyzing and calculating the average rent price in each area.
