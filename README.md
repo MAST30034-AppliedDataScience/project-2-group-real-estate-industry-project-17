@@ -7,7 +7,7 @@ Data can be downloaded via URL or uploaded directly to the `raw` directory.
 
 -**Timeline:** The timeline for the research area is 2023.
 
-To run the pipeline, please visit the "notebook" folder and run the files in order:
+First, to run the pipeline, please visit the "notebook" folder and run the files in order:
 1. **population_EDA.ipynb**：Perform exploratory data analysis of demographic data.
 2. **EDA_aff.ipynb**: Exploratory data analysis of economic prosperity data.
 3. **avg_rent.ipynb**：Analyzing and calculating the average rent price in each area.
@@ -20,9 +20,14 @@ To run the pipeline, please visit the "notebook" folder and run the files in ord
 10. **map_top10.ipynb**：Generate a geographic visualization of the top10 suburbs with the highest predicted growth rates.
 11. **radar_code.ipynb**：Several influences on most livable affordable are visualized as radar charts.
 
-To run the model, please visit the "Model" folder and run the juypter notebooks:
+Second, to run the model, please visit the "Model" folder and run the juypter notebooks:
 1. **code_predict.ipynb**：Analyze the importance of features using regression models, do model evaluation.
 2. **growth rate and price.ipynb**：Analyze and visualize the relationship between growth rates and rent prices in different regions. Use random forest model and gradient boost model to predict the top ten highest rent suburb.
 
+-**API Access:**
 
-See the `scrape.py` file in the `scripts` directory to get started scraping data. 
+Declaration : The API keys are securely stored in environment variables and have been excluded from version control by including them in the .gitignore file.
+ 
+Guidance about how to get API access is provided in "distance_train_station.ipynb" in "notebook" folder.
+
+Please See the `scrape.py` file in the `scripts` directory to get started scraping data. 
